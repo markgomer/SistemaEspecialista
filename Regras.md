@@ -30,4 +30,26 @@ Quer regras muito difíceis?
   - Não: Todos os jogadores devem ficar até o final da partida?
 
 Você é muito nerd?
-  - Sim: 
+  - Sim: Você quer gastar várias horas se preparando para jogar?
+  - Não: Você acha que todos só precisam se dar bem?
+
+Regras reais ou apenas para se divertir?
+  - Regras: Precisa ser divertido para adultos?
+  - Diversão: Rube Goldberg? (máquinas muito complicadas para fazer tarefas simples)
+ 
+O jogo precisa ser portátil?
+  - Sim: Yahtzee!
+  - Não: Apenas um vencedor ou trabalho em equipe?
+
+Todos os jogadores devem ficar até o final da partida?
+  - Sim: Le Havre
+  - Não: Dados ou 100% estratégia?
+
+Você quer gastar várias horas se preparando para jogar?
+  - Sim: Warhammer
+  - Não: Você gosta muito de gastar dinheiro?
+
+Você acha que todos só precisam se dar bem?
+  - Sim: Você tem o desejo secreto de ser babaca?
+  - Não: Você gosta de apostas?
+
