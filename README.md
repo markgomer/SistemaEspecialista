@@ -11,7 +11,9 @@ Os dados foram retirados do infográfico contido [neste link](https://bitrebels.
 ## Executando
 
 Você pode baixar o código e compilar com javac
+
 ou 
+
 Ir para o [Replit](https://replit.com/@markgomer/SistemaEspecialista).
 
 Se está no Replit, apenas clique em "Run".
