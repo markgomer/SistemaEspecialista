@@ -50,6 +50,6 @@ Você quer gastar várias horas se preparando para jogar?
   - Não: Você gosta muito de gastar dinheiro?
 
 Você acha que todos só precisam se dar bem?
-  - Sim: Você tem o desejo secreto de ser babaca?
+  - Sim: Você tem o desejo secreto de ser um babaca?
   - Não: Você gosta de apostas?
 
