@@ -13,6 +13,8 @@ Dados extraídos do infográfico [Geek's Guide to Choosing the Perfect Board Gam
 
 ### 1. Usando o JAR (Recomendado)
 
+Baixa o arquivo jar [aqui](https://github.com/markgomer/SistemaEspecialista/releases/download/v1.0/SistemaEspecialista.jar)
+
 Abra um terminal, navegue até o arquivo e digite:
 
 ```bash
