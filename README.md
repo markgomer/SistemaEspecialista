@@ -1,23 +1,29 @@
 # SistemaEspecialista
 
-Disciplina: Resolução de Problemas com Lógica Matemática
+Sistema especialista em Java para recomendação de jogos de tabuleiro via perguntas e respostas.
 
-> O objetivo do programa é indicar um jogo de tabuleiro ao usuário baseado em uma série de perguntas.
+Dados extraídos do infográfico [Geek's Guide to Choosing the Perfect Board Game](https://bitrebels.com/entertainment/the-geeks-guide-for-choosing-the-perfect-board-game-chart/).
 
-Os dados foram retirados do infográfico contido [neste link](https://bitrebels.com/entertainment/the-geeks-guide-for-choosing-the-perfect-board-game-chart/).
+## Requisitos
 
---- 
+- Java Runtime Environment (JRE) 8+ (para executar)
+- JDK 8+ & Make (apenas para compilar)
 
-## Executando
+## Como Executar
 
-Você pode baixar o código e compilar com javac
+### 1. Usando o JAR (Recomendado)
 
-ou 
+Abra um terminal, navegue até o arquivo e digite:
 
-Ir para o [Replit](https://replit.com/@markgomer/SistemaEspecialista).
+```bash
+java -jar SistemaEspecialista.jar
+```
 
-Se está no Replit, apenas clique em "Run".
+### 2. Compilando do Código Fonte
+```bash
+make run-jar   # Compila, gera JAR e executa
+```
 
-Ao ser perguntado, digite o número entre colchetes à esquerda da opção e pressione \<ENTER\>.
+## Como Usar
 
-Prossiga até obter uma resposta.
+Digite o número entre colchetes da opção desejada e pressione `<ENTER>` até obter a recomendação.
