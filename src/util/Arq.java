@@ -49,7 +49,20 @@ public class Arq
 	public static boolean openRead(String nomeArq, String charset) {
       boolean resp = false;
       close();
-		try{
+      try {
+         InputStream is = Arq.class.getResourceAsStream(nomeArq.startsWith("/") ? nomeArq : "/" + nomeArq);
+         if (is == null && nomeArq.startsWith("../")) {
+             is = Arq.class.getResourceAsStream("/" + nomeArq.substring(3));
+         }
+         if (is != null) {
+             entrada = new Scanner(is, charset);
+             nomeArquivo = nomeArq;
+             resp = read = true;
+             return resp;
+         }
+      } catch (Exception e) {}
+
+		try {
          entrada = new Scanner(new File(nomeArq), charset);
          nomeArquivo = nomeArq;
          resp = read = true;

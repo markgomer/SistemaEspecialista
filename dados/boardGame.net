@@ -1,0 +1,195 @@
+*Vertices 97
+1 "Está jogando com crianças?:Sim:Não"
+2 "Mais nova que 7 anos?:Sim:Não"
+3 "Pode jogar por mais de 2 horas?:Sim:Não"
+4 "Jogo para meninas, apenas?:Sim:Não"
+5 "Elas podem perder de forma humilhante?:Sim:Não"
+6 "Quer regras muito difíceis?:Sim:Não"
+7 "Você é muito nerd?:Sim:Não"
+8 "Regras reais ou apenas para se divertir?:Regras:Diversão"
+9 "O jogo precisa ser portátil?:Sim:Não"
+10 "Todos os jogadores devem ficar até o final da partida?:Sim:Não"
+11 "Você quer gastar várias horas se preparando para jogar?:Sim:Não"
+12 "Você acha que todos só precisam se dar bem?:Sim:Não"
+13 "Candy Land"
+14 "Banco Imobiliário"
+15 "Axis and Allies"
+16 "Divertido para adultos:Sim:Não"
+17 "Rube Goldberg? (máquinas muito complicadas para fazer tarefas simples):Sim:Não"
+18 "Yahtzee!"
+19 "Apenas um vencedor ou trabalho em equipe?:Equipe:Um"
+20 "Le Havre"
+21 "Dados ou 100% estratégia?:Estratégia:Dados"
+22 "Warhammer"
+23 "Você gosta muito de gastar dinheiro?:Sim:Não"
+24 "Você tem o desejo secreto de ser babaca?:Sim:Não"
+25 "Você gosta de apostas?:Sim:Não"
+26 "Sorry!"
+27 "Jogo da Vida"
+28 "Mouse Trap"
+29 "Operation"
+30 "Forbidden Island"
+31 "Small World"
+32 "Game of Thrones"
+33 "Risk"
+34 "Magic"
+35 "Você adora a expressão 'Boomer'?:Sim:Não"
+36 "Arkham Horror"
+37 "Você gosta de Monty Python?:Sim:Não"
+38 "Rummoli"
+39 "Você tem mais de 50 anos?:Sim:Não"
+40 "Battlestar Galactica"
+41 "Cosmic Encounter"
+42 "Shadows Over Camelot"
+43 "Zumbis?:Sim:Não"
+44 "Tem mais de dois para jogar?:Sim:Não"
+45 "Jogo de Festa? (Party Game):Sim:Não"
+46 "Last Night on Earth"
+47 "Você prefere lutar contra vírus ou monstros?:Vírus:Monstros"
+48 "Cribbage"
+49 "Você está na Mensa? (Sociedade do alto QI):Sim:Não"
+50 "Está procurando transar?:Sim:Não"
+51 "Você é um sabichão?:Sim:Não"
+52 "Pandemic"
+53 "Dungeon Run"
+54 "Xadrez é muito clichê?:Sim:Não"
+55 "Backgammon"
+56 "Twister"
+57 "Quer envergonhar seus amigos?:Sim:Não"
+58 "Trivial Persuit"
+59 "Só tira nota 10?:Sim:Não"
+60 "Go"
+61 "Xadrez"
+62 "Quer ser um bandido ou um artista?:Bandido:Artista"
+63 "Você é um mentiroso criativo?:Sim:Não"
+64 "Scrabble"
+65 "Tem fetiche em trens?:Sim:Não"
+66 "Ca$h'N'Gun$"
+67 "Cranium"
+68 "Palavras ou Curiosidades?:Palavras:Curiosidades"
+69 "Bom com as mãos?:Sim:Não"
+70 "Gosta de economia?:Sim:Não"
+71 "Regras simples?:Sim:Não"
+72 "Beyond Balderbash"
+73 "Wits and Wagers"
+74 "Jenga (DK Edition)"
+75 "Taboo"
+76 "Steam"
+77 "Ticket to Ride"
+78 "Palavras ou blocos?:Blocos:Palavras"
+79 "Escolhas difíceis constantemente?:Sim:Não"
+80 "Qwirkle"
+81 "Scattergories"
+82 "Fetiche em fazendas?:Sim:Não"
+83 "Jogo de cartas/deck?:Sim:Não"
+84 "Agricola"
+85 "Você se importa em ter que comprar dois jogos?:Sim:Não"
+86 "Complexidade?:Mais:Menos"
+87 "Você gosta de planejar sua estratégia antes de cada turno?:Sim:Não"
+88 "Todos os jogadores são viciados em jogos de tabuleiros?:Sim:Não"
+89 "Cities and Knights"
+90 "7 Wonders"
+91 "Dominion"
+92 "Settlers of Catan"
+93 "Turnos definidos ou sem pausas?:Sem-pausa:Turnos"
+94 "Puerto Rico"
+95 "Domaine"
+96 "Pillars of the Earth"
+97 "Carcassonne"
+*Edges
+1 2 1
+1 3 1
+2 4 1
+2 5 1
+3 6 1
+3 7 1
+4 13 1
+4 8 1
+5 14 1
+5 9 1 
+6 15 1
+6 10 1
+7 11 1
+7 12 1 
+8 16 1
+8 17 1
+9 18 1
+9 19 1
+10 20 1 
+10 21 1
+11 22 1 
+11 23 1
+12 24 1
+12 25 1
+16 26 1
+16 27 1
+17 28 1
+17 29 1
+19 30 1
+19 31 1
+21 32 1
+21 33 1
+23 34 1
+23 35 1
+24 36 1
+24 37 1
+25 38 1
+25 39 1
+35 40 1
+35 41 1
+37 42 1
+37 43 1
+39 44 1
+39 45 1
+43 46 1
+43 47 1
+44 48 1
+44 49 1
+45 50 1
+45 51 1
+47 52 1
+47 53 1
+49 54 1
+49 55 1
+50 56 1
+50 57 1
+51 58 1
+51 59 1
+54 60 1
+54 61 1
+57 62 1
+57 63 1
+59 64 1
+59 65 1
+62 66 1
+62 67 1
+63 68 1
+63 69 1
+65 70 1
+65 71 1
+68 72 1
+68 73 1
+69 74 1
+69 75 1
+70 76 1
+70 77 1
+71 78 1
+71 79 1
+78 80 1
+78 81 1
+79 82 1
+79 83 1
+82 84 1
+82 85 1
+83 86 1
+83 87 1
+85 88 1
+85 89 1
+86 90 1
+86 91 1
+87 92 1
+87 93 1
+88 94 1
+88 95 1
+93 96 1
+93 97 1
